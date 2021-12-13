@@ -1,0 +1,39 @@
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.exe
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.deps.json
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.runtimeconfig.json
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.runtimeconfig.dev.json
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.dll
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.pdb
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.csprojAssemblyReference.cache
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.AssemblyInfoInputs.cache
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.AssemblyInfo.cs
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.csproj.CoreCompileInputs.cache
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.dll
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.pdb
+D:\Sebas\Documents\Sebastian\ITA\7 Semestre\Ingenieria del Conocimiento\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.genruntimeconfig.cache
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.exe
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.deps.json
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.runtimeconfig.json
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.runtimeconfig.dev.json
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.dll
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.pdb
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.csprojAssemblyReference.cache
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.AssemblyInfoInputs.cache
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.AssemblyInfo.cs
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.csproj.CoreCompileInputs.cache
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.dll
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.pdb
+D:\Documents\ITA\7 Semestre\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.genruntimeconfig.cache
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.exe
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.deps.json
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.runtimeconfig.json
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.runtimeconfig.dev.json
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.dll
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\bin\Debug\netcoreapp3.1\Algoritmo Genético.pdb
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.csprojAssemblyReference.cache
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.AssemblyInfoInputs.cache
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.AssemblyInfo.cs
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.csproj.CoreCompileInputs.cache
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.dll
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.pdb
+D:\Users\Mandu\Desktop\Cap\Uni\9no\Ingenieria del Conocimiento\Unidad 3\Algoritmo Genético\Algoritmo Genético\obj\Debug\netcoreapp3.1\Algoritmo Genético.genruntimeconfig.cache
